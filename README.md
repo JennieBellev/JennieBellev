@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./asciify.png" width="300" alt="ASCII Butterfree" />
+  <img src="./butterfree.png" width="300" alt="Animated ASCII Butterfree" />
 </p>
